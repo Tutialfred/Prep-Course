@@ -68,7 +68,7 @@ function sonIguales(x, y) {
    return true
   } return false
  
-  //Hecho
+  
 }
 
 function tienenMismaLongitud(str1, str2) {
@@ -88,7 +88,7 @@ function menosQueNoventa(num) {
   if (num < 90) {
     return true
   } return false
-  //Hecho
+  
 }
 
 function mayorQueCincuenta(num) {
@@ -98,13 +98,13 @@ function mayorQueCincuenta(num) {
   if (num > 50) {
     return true
   } return false
-} //Hecho
+} 
 
 function obtenerResto(x, y) {
   // Obten el resto de la división de "x" entre "y"
   // Tu código:
   return x %=y
-  //Hecho
+  
 }
 
 function esPar(num) {
