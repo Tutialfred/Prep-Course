@@ -76,7 +76,9 @@ function tienenMismaLongitud(str1, str2) {
   // De lo contrario, devuelve "false"
   // Tu código:
  
- return str1.length === str2.length
+ if (str1.length === str2.length){
+   return true
+ } return false
  
   
 }
@@ -103,7 +105,7 @@ function mayorQueCincuenta(num) {
 function obtenerResto(x, y) {
   // Obten el resto de la división de "x" entre "y"
   // Tu código:
-  return x %=y
+  return x %= y
   
 }
 
@@ -171,7 +173,7 @@ function esPositivo(numero) {
   //Si el número es negativo, devolver ---> "Es negativo"
   //Si el número es 0, devuelve false
   
-  if (numero == 0){
+  if (numero == 0){ 
     return false
 
   } else if(numero > 2){
