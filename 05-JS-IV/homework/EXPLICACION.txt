@@ -1,0 +1,18 @@
+OBJECTOS = Practicamente todo lo de javascript son objetos, pero los objetos globales o basico es: no es mas que
+una variable que adentro puede contener propiedades que como valor pueden tener, "strings", 151, true, ["bananas"], {}
+hasta incluso podemos agregar un objeto, adentro de un objeto, y adentro de ese objeto hasta agregar otro
+
+tambien los objetos se pueden llegars a crear a travez de una clase o funcion.
+
+en POO, los usuarios que se registran pueden llegar hacer un objeto que reciben propiedades y metodos, funciones 
+que pueden hacer en la pagina web
+
+
+BUCLE IN = literalmente en pocas palabras , es una formular lo cual puede recorrer todo el indice de un array
+desde la posicion 0
+
+
+
+NOTACIÓN DE PUNTOS = Es acceder al valor de una propiedad del objeto (colocamosElObjeto.propiedadQueQueremosLlamar) == nos retorna el valor de la propiedad
+
+NOTACIÓN DE CORCHETES = lo mismo que puntos pero solamentes despues de la variable va directamente el ["Propiedad que queremos ver su valor"] acompañado 

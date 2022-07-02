@@ -1,0 +1,1 @@
+ARRAYS = o arreglos es un conjunto de elementos todo dentro de [corchetes] separados por coma, (esto contienen metodos, para editar, eliminar, agregar elementos, leer el arreglo,etc) 

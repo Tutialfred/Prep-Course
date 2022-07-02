@@ -1,0 +1,20 @@
+Variables = Con las variables son las que podes almacenar un dato(informacion) dentro de una palabra que "creamos nosotros"
+lo cual pueden contener , cualquier tipo de dato, string,booleans,strin,array,objects, etc 
+por si ya tiene como undefined como valor ;
+exiten 3 tipos de variables : var , let o const 
+
+string = son una cadena de caracteres, no podemos poner texto sin comillas "todo esto es una cadena de caracteres" 
+lo cual estos pueden ir en comillas comunes " comillas normales " - `Backsticks` - 'comillas simples' 
+
+Funciones = existen 3 tipos de hacer funciones: declarativas, expresión, funciones flechas , las mas comunes
+por lo general la invocamos a travez de un nombre que nosotros decidimos asignar como a una variable , tambien
+las funciones pueden llevar parametros 1 o más, siempre ejecutadose todo lo que esta entre llaves { retun a + b}
+
+IF = If es un tipo de varias formas que tenemos para hacer condiciones para declarar que va a mostrar o pasar
+si el resultado llega a ser true o false, 0, 1 o si se cumple o si no se cumple. Despues de colocar la palabra if
+hacemos una condicion que tiene que retorar un valor (si o no)(true o false)
+if esta acompañado por else (else solo, si nada se cumple hagamos esto)
+
+NUMEROS BOOLEANOS = simplemente son dos true o false. siempre tener esto presente. true o false (0 y 1) en numeros 
+binarios. siempre veremos esto. para ver si tal condicon se cumple o no se cumple en otras palabras (ES O NO ES)
+

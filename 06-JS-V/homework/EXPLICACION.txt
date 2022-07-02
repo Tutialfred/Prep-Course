@@ -1,0 +1,3 @@
+PROTOTYPE  = Cuando se crea un objeto, "se le crea" automaticamente algunas funciones que puede ser compatible con el objeto
+
+Constructores = es lo que va despues de declarar una class (POO) constructor {nos permite aca crear las propiedades y metodos del objeto}

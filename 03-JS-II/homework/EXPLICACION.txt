@@ -1,0 +1,10 @@
+FOR = el bucle for se basa en "tres acciones" primero asiga un valor (i(index) por lo general ), despues hace una
+condicion, y despues incrementa o decrementa lo que le pasemos nosotros (i++) o (i +=50) se repite hasta que la condicion(segunda accion del bucle for)
+se deje de cumplir (false)
+
+OPERADORES LOGICOS = cuando && todo tiene que ser true, aunque haya 1 solo false, todo es false. La unica manera para que esto de true es == true && !false
+
+        || Esto aunque tengo un true, da true la unica manera que de false es Teniendo 2 false == !true || false
+
+        !true == empieza con signo de exclamacion, da lo contrario en este caso nos daria False
+        !false == true
